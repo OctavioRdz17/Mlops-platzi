@@ -1,6 +1,7 @@
 .venv/
 .vscode/
 mlruns/
+.txt
 tracking/backend.db
 tracking/experiment_ml/
 utils/__pycache__
